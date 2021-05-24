@@ -12,6 +12,10 @@ Callable yield note usually pays a higher coupon or interest rate to investor. H
 Due to the complexity of the payoff structure, the note is normally priced via Monte Carlo simulation. 
 
 
-Reference:
+References:
+
 https://finpricing.com/lib/EqYield.html
+
+https://bitbucket.org/cmrm11/eqyield/downloads/EqYield-23.pdf
+
 
